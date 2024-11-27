@@ -16,7 +16,7 @@ public class SwaggerConfig {
                 .version("V1")
                 .license(new License()
                 .name("neima foto")
-                .url("https://www.gettyimages.com.br/fotos/neimar"))
+                .url("https://github.com/willuchihaa/TASKPROJECT"))
             );
     }
 }
